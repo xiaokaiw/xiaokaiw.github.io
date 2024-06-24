@@ -12,9 +12,6 @@ author_profile: true
 <b>Preprints</b>
 ======
 
-<b>Technical Reports</b>
-======
-
 <b>Journal</b>
 ======
 *  <b>X. Wang</b>, F. Alkaabi, M. Choi, M. R. Di Natale, U. Scheven, D. C. Noll, Z. Liu.  <br>[Surface Mapping of Gastric Motor Functions Using MRI: A Comparative Study between Humans and Rats.]<br><em> American Journal of Physiology-Gastrointestinal and Liver Physiology, 2024 (In press)</em>. 
