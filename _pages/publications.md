@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-  You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=J7WSE60AAAAJ&hl=en&oi=ao).
+  You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=xM59TkMAAAAJ&hl=en).
   
 {% include base_path %}
 
@@ -14,13 +14,11 @@ author_profile: true
 
 <b>Technical Reports</b>
 ======
-* <b>R. A. Lobos</b>, C.-C. Chan, J. P. Haldar.  <br>[PISCO Software Version 1.0](https://sipi.usc.edu/reports/abstracts.php?rid=sipi-458)<br><em> University of Southern California, Los Angeles, CA, Technical Report USC-SIPI-458, March 2023.</em><br>[Related software.](https://mr.usc.edu/download/pisco/)<br>
 
 <b>Journal</b>
 ======
-*  <b>R. A. Lobos</b>, C.-C. Chan, J. P. Haldar.  <br>[New Theory and Faster Computations for Subspace-Based Sensitivity Map Estimation in Multichannel MRI](https://ieeexplore.ieee.org/document/10190117)<br><em> IEEE Transactions on Medical Imaging 43:286-296, 2024</em>. [(Extended preprint)](https://arxiv.org/abs/2302.13431). <br>[Related software.](https://mr.usc.edu/download/pisco/)<br>
-
-* D. Kim, J. Coll-Font, <b>R. A. Lobos</b>, D. Stab, J. Pang, A. Foster, T. Garrett, X. Bi, P. Speier, J. P. Haldar, C. Nguyen.  <br>[Single breath-hold CINE imaging with combined Simultaneous Multi-Slice (SMS) and Region-Optimized Virtual (ROVir) coils](https://onlinelibrary.wiley.com/doi/10.1002/mrm.29620)<br><em> Magnetic Resonance in Medicine, 90:222-230, 2023.</em>
+*  <b>X. Wang</b>, F. Alkaabi, M. Choi, M. R. Di Natale, U. Scheven, D. C. Noll, Z. Liu.  <br>[Surface Mapping of Gastric Motor Functions Using MRI: A Comparative Study between Humans and Rats.](https://ieeexplore.ieee.org/document/10190117)<br><em> American Journal of Physiology-Gastrointestinal and Liver Physiology, 2024</em>. 
+* O. N. Athavale, R. Avci, A. R. Clark, M. R. Di Natale, ,<b>X. Wang</b>, J. B. Furness, Z. Liu, L. K. Cheng, P. Du.  <br>[Neural regulation of slow waves and phasic contractions in the distal stomach: a mathematical model.](https://onlinelibrary.wiley.com/doi/10.1002/mrm.29620](https://pubmed.ncbi.nlm.nih.gov/38100816/)<br><em> Journal of Neural Engineering, 20(6):066040, 2023.</em>
 * G. Ramos-Llorden, <b>R. A. Lobos</b>, T. H. Kim, Q. Tian, T. Witzel, H.-H. Lee, A. Scholz, B. Keil, A. Yendiki, B. Bilgic, J. P. Haldar, S. Y. Huang. <br>[High-fidelity, high-spatial-resolution diffusion MRI of the ex vivo whole human brain at ultra-high gradient strength with structured low-rank EPI ghost correction](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.4831)<br><em> NMR in Biomedicine 36:e4831, 2023.</em>
 * <b>R. A. Lobos</b>, J. P. Haldar. <br>[On the Shape of Convolution Kernels in MRI Reconstruction:  Rectangles versus Ellipsoids](https://onlinelibrary.wiley.com/doi/epdf/10.1002/mrm.29189)<br><em> Magnetic Resonance in Medicine 87:2989-2996, 2022.</em>
 * <b>R. A. Lobos</b>, M. U. Ghani, W. C. Karl, R. M. Leahy, J. P. Haldar. <br>[Autoregression and Structured Low-Rank Modeling of Sinogram Neighborhoods.](https://ieeexplore.ieee.org/document/9547841)<br><em>IEEE Transactions on Computational Imaging 6:1044-1054, 2021.</em>
